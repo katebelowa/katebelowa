@@ -1,9 +1,11 @@
-<h1>Hi, there, I'm <a href="(https://github.com/AdelKurysheva)" target="_blank">Kate</a> 
+<h1>Hi there, I'm <a href="(https://github.com/AdelKurysheva)" target="_blank">Kate</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>I'm  Java QA Automation student</h3>
 
 
-### Мои инструменты и технологии:
+
+
+### My technology stack is:
 
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="media/logo/Intelij_IDEA.svg">
@@ -20,3 +22,9 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
+
+
+### Connection with me:
+
++  Email - wallerina131@gmail.com
++  Telegram - https://t.me/wa11erina
