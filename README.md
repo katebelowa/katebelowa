@@ -3,7 +3,7 @@
 <h3>I'm  Java QA Automation student</h3>
 
 
-### Мои инструменты и технологии:
+### My technology stack is:
 
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="media/logo/Intelij_IDEA.svg">
