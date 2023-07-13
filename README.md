@@ -3,6 +3,8 @@
 <h3>I'm  Java QA Automation student</h3>
 
 
+
+
 ### My technology stack is:
 
 <p align="center">
@@ -20,3 +22,9 @@
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
+
+
+### Connection with me:
+
++  Email - wallerina131@gmail.com
++  Telegram - https://t.me/wa11erina
