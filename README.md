@@ -27,4 +27,3 @@
 ### Connection with me:
 
 +  Email - wallerina131@gmail.com
-+  Telegram - https://t.me/wa11erina
