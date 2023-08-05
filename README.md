@@ -21,9 +21,3 @@
 <img width="6%" title="Telegram" src="media/logos/Telegram.svg">
 <img width="5%" title="Jira" src="media/logos/Jira.svg">
 </p>
-
-
-
-### Connection with me:
-
-+  Email - wallerina131@gmail.com
